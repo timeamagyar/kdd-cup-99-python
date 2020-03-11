@@ -1,7 +1,7 @@
 # kdd-cup-99-python
 Analysis and preprocessing of the 10% subset of the original kdd cup 99 network intrusion detection dataset using python, scikit-learn and matplotlib.
 
-# Testing for linear spearability
+# Testing for linear separability
 
 Linear separability of various attack types is tested using the Convex-Hull method. The intersections between the hull boundaries of 
 the classes normal and the two most frequent attack types neptune and smurf are visualized in a 2D plot against the first two principal
